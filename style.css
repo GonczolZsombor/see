@@ -1,0 +1,42 @@
+    body {
+        background-color: wheat;
+        color: aliceblue;
+        background-image: url(banner-img.jpg);
+    }
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        font-size: 2ch;
+        padding-top: 15px;
+        font-weight: 800;
+        background-color: #333333;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        height: auto;
+      }
+
+      .kep1{
+        width: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      }
+      
+      h4, h1{
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(102, 102, 102);
+        font-style: solid;
+      }
+
+      .kep2{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      }
+      
+      .kozep{
+        text-align: center;
+      }
